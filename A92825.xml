@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Second part of the tragedy of Amboyna: or, A true relation of a most bloody, treacherous, and cruel design of the Dutch in the New-Netherlands in America. For the total ruining and murthering of the English colonies in New-England. Being extracted out of several letters very lately written from New-England to several gentlemen and merchants in London.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92825</idno><idno type="EEBO-CITATION">99866256</idno>
+  <idno type="VID">166655</idno>
+  <idno type="EEBO-PROQUEST">2240952716</idno>
+  
+            <idno type="STC">Wing S2317</idno>
+            <idno type="STC">Thomason E710_7</idno>
+            <idno type="STC">ESTC R207186</idno>
+            <idno type="PROQUEST">99866256</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.  Navigations series.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866256e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92825)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166655)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 109:E710[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Second part of the tragedy of Amboyna: or, A true relation of a most bloody, treacherous, and cruel design of the Dutch in the New-Netherlands in America. For the total ruining and murthering of the English colonies in New-England. Being extracted out of several letters very lately written from New-England to several gentlemen and merchants in London.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Matthews, at the sign of the Cock in St Pauls Church-yard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug 8.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Foreign relations --  Holland --  Early works to 1800.</term>
+               <term type="geographic_name">Holland --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+               <term type="geographic_name">Ambon Island (Indonesia) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">New York (State) --  History --  Colonial period, ca. 1600-1775 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166655:1"/>
+            <p>The Second Part of the TRAGEDY OF Amboyna: OR, A TRUE RELATION OF A Most Bloody, Treacherous, and Cruel Design of the Dutch in the New-Netherlands in America. For the total Ruining and Murthering of the English Colonies in New-England. Being extracted out of several Letters very late<g ref="char:EOLhyphen"/>ly written from New-England to several Gentle<g ref="char:EOLhyphen"/>men and Merchants in <hi>London.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas Matthews,</hi> at the sign of the Cock in S<seg rend="sup">t</seg>
+               <hi>Pauls</hi> Church-yard. 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:166655:2"/>
+            <pb n="3" facs="tcp:166655:2"/>
+            <head>A true Relation of a most bloody, trea<g ref="char:EOLhyphen"/>cherous and cruel Design of the Dutch in the New-Netherlands in America.</head>
+            <p>THe Colonies of New-England con<g ref="char:EOLhyphen"/>sisting of several Governments, as that of Connecticot, of Newhaven, Road Island, Plymouth, Massachusets, the Province of Main, and Pemmaquid, &amp;c. part of them distinct Jurisdictions, and part confederate and associate, have the Dutch setled to the Southwest of them, at the Manatha's or New-Netherlands, and the French to the North<g ref="char:EOLhyphen"/>east, alongst the Grand River of Canada; be<g ref="char:EOLhyphen"/>tween which Nations there hath been ever (till now of late) a friendly correspondence, and a mutual assistance against the common Enemy, the barbarous Indians.</p>
+            <p>About six years since the Dutch being re<g ref="char:EOLhyphen"/>duced to a great exigence and strait by the In<g ref="char:EOLhyphen"/>dians,
+<pb n="4" facs="tcp:166655:3"/> implored the English ayd and assist<g ref="char:EOLhyphen"/>ance, which immediately was sent them, un<g ref="char:EOLhyphen"/>der the command of Captain Underhill, a Gentleman of spirit, experience, and conduct, who prizing Christian Blood beyond Indian Wealth and Treasure (being proffered a hogs<g ref="char:EOLhyphen"/>head of their Wampampege to withdraw the English Forces) fell on these Heathens, in vin<g ref="char:EOLhyphen"/>dication of the Dutch, and in one night cut off fourteen hundred of them, and so gallant<g ref="char:EOLhyphen"/>ly, with the hazard and some loss of English Blood (through the assistance of the Omnipo<g ref="char:EOLhyphen"/>tent) resetled the Hollander in peace and safety.</p>
+            <p>But Ingratitude overclouding these Hero<g ref="char:EOLhyphen"/>ick Actions, and Amboyna's treacherous Cru<g ref="char:EOLhyphen"/>elty extending it self from the East to the West Indiaes, running in its proper channel of Dutch blood, quickly sought their Neighbors, their Friends, their Noble Defenders, the Eng<g ref="char:EOLhyphen"/>lish, Destruction; and by their unworthy in<g ref="char:EOLhyphen"/>equality of retribution, have chronicled them<g ref="char:EOLhyphen"/>selves, Ungrateful, Perfidious, Bloody, and Cruel.</p>
+            <p>For about March last 1653. with gifts and large promises they instigated and hired four
+<pb n="5" facs="tcp:166655:3"/> of the Heathen Sagamores (the Grand Princes of those Territories, of the Mohawks, Nara<g ref="char:EOLhyphen"/>ganses, Pequets, Massachusets, and Pigwock<g ref="char:EOLhyphen"/>ets, some of them most fierce, barbarous, and bloody people, fit instruments for so horrid a design, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> on a Sabbath day, when all families were at Meeting, unexpectedly to fall on the English, and to burn and slay what possibly they could: and for the better perfecting of this Diabolical Plot, they supplyed the Indi<g ref="char:EOLhyphen"/>ans with Arms and Ammunition, which were dispersed in all their habitations, they having a Ship sent them on purpose from Holland, the Fountain of Treacheries, with all necessary tools for the acting of a second Amboyna Tragedy.</p>
+            <p>But the Omnipotent God (who hath ever been a most merciful Protector of the Eng<g ref="char:EOLhyphen"/>lish in those parts, as in the Pequet War, &amp;c.) did through his infinite goodness most time<g ref="char:EOLhyphen"/>ly before the bloody day of acting, cause an Indian, that should have been an Executioner, to be a revealing Deliverer of our Nation, who informed the Magistrates of Boston of the Dutch and Indians bloody intentions; whereupon they requested several Merchants
+<pb n="6" facs="tcp:166655:4"/> of that Town with all expedition to march forth towards the Indian habitations, to see what they could discover. At whose desire Mr Gardner, Mr Hutchinson, Mr Houper, and Mr Seavern rid forth, and the first Wigwambs or Indian houses they came to searching, they found them full of Arms and Ammunition, (which have been ever prohibited the Indians by the English,) all their Muskets were char<g ref="char:EOLhyphen"/>ged with powder and ball, which they brought with them to Boston: the Country was immediately put in a posture of defence, and two Gentlemen sent from Boston, viz. Captain John Leveret, and Mr Davis, to the New Nether-lands with some Indians that confessed, that they were hired by the Dutch for to be Instruments in this unheard of and unparallel Inhumanity.</p>
+            <p>These Gentlemen returning, sufficiently as<g ref="char:EOLhyphen"/>sured the Governors and Magistrates of the Dutch guiltiness of this Treachery; where<g ref="char:EOLhyphen"/>upon the Country was raising Forces to march against them; Captain Hathorn, beating his Drums in Salem for Volunteers, had one hun<g ref="char:EOLhyphen"/>dred and fifty stout men that proffered their service: Most of the English in the South<g ref="char:EOLhyphen"/>west
+<pb n="7" facs="tcp:166655:4"/> parts are enforced to forsake their habi<g ref="char:EOLhyphen"/>tations. Some Letters affirm, that the French are consederate with the Dutch and Indians, so that the English are invironed with their enemies. But that out of the hands of all their Enemies the Lord may deliver them, Let all good Christians implore a blessing from the Almighty, that is most powerful to save, that he may crown their Enterprizes with success<g ref="char:EOLhyphen"/>ful Victories. Amen.</p>
+            <p>The Ship that came from New-England arrived at Dorthmouth after six weeks voy<g ref="char:EOLhyphen"/>age, loaden with Tarr, belonging to William Philips of Boston, being the first Ship that came thence since the bloody Tragedy should have been acted.</p>
+            <p>If any desire to be better informed of what here is inserted, let them repair to any Mer<g ref="char:EOLhyphen"/>chant that holds Correspondence with New-England, whose Letters can evidence the certainty hereof.</p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
